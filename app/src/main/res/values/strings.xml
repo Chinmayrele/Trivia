@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="heading_text">Trivia</string>
+    <string name="out_off_text">Question: (1/50)</string>
+    <string name="next_text">Next</string>
+    <string name="false_text">False</string>
+    <string name="true_text">True</string>
+    <string name="text_formatter">Question: %d/%d</string>
+    <string name="correct_answer">Correct</string>
+    <string name="incorrect_ans">Incorrect</string>
+</resources>
